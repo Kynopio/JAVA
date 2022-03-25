@@ -21,5 +21,5 @@ public class Challenge_01 {		//직사각형의 넓이 구하기
 		System.out.println("직사각형의 넓이는 " + area + "입니다.");
 		
 	}
-
+	//챔피언! 소리 지르는 니가!
 }
